@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+.container {
+  text-align: center;
+  padding-top: 12%;
+}
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.explicacao{
+  color: #fff;
+  font-size: 30px;
+}
+.texto {
+  color: brown;
+  border: solid 2px;
+  border-radius: 20px;
+}
+.texto:hover {
+  background-color: gray;
+}
+button{
+  background-color: black;
+  border: solid 4px;
+  border-color: red;
+  border-radius: 10px;
+  color: #fff;
+}
+button:hover{
+  background-color: grey;
+  color: black;
+}
+input{
+  background-color: gray;
+  color: black;
+}
+
+
