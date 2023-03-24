@@ -1,5 +1,10 @@
 # PROJETO DE ARRAY
 
-<p>Esse projeto simples é só uma forma de brincar com array, eventos e formes.</p>
+Esse projeto simples é só uma forma de brincar com array, eventos e formes.
 
-<p>Foi utilizado array, buttons, eventos e formes.</p>
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **PROJETO DE ARRAY**
+| :label: Tecnologias | HTML, CSS, JavaScript (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
