@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-bt">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -8,26 +8,27 @@
     <title>lista invertida</title>
   </head>
   <body>
-    <div class="container">
+    <main class="container">
+      <h1>Laboratório de arrays</h1>
       <div class="content">
         <p class="explicacao">Array Simples!</p>
           <button id="botao1">Revelar Array!</button>
-        <h1 class="texto" id="h1"></h1>
+        <p aria-live="polite" class="texto" id="h1"></p>
         <p class="explicacao">Array com adição do número 6</p>
           <button id="botao2">Revelar Modificação</button>
-        <h1 class="texto" id="h2"></h1>
+        <p aria-live="polite" class="texto" id="h2"></p>
         <p class="explicacao">Array invertido</p>
           <button id="botao3">Revelar Inversão</button>
-        <h1 class="texto" id="h3"></h1>
+        <p aria-live="polite" class="texto" id="h3"></p>
         <form id="meuFormulario">
           <label for="novoValor">Novo valor:</label>
-          <input type="text" id="novoValor" name="novoValor">
+          <input type="text" id="novoValor" name="novoValor" required maxlength="120">
           <button type="submit">Adicionar</button>
-          <h1 class="texto" id="h4"></h1>
+          <p aria-live="polite" class="texto" id="h4"></p>
         </form>
         
       </div>
-    </div>
+    </main>
+    <script src="./script.js"></script>
   </body>
-  <script src="./script.js"></script>
 </html>
